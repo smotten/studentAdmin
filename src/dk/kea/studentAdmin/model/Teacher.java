@@ -1,4 +1,4 @@
-package dk.kea.studentAdmin.model;
+package model;
 
 public class Teacher {
 
